@@ -1,0 +1,7 @@
+BARISTA: One latte, for ALEX.
+BARISTA: Here you go.
+BARISTA: Have a nice day!
+---
+BARISTA: Enjoying the coffee?
+---
+BARISTA: I peed in it.

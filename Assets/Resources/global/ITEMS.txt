@@ -1,0 +1,14 @@
+Phone/true/true/No new messages.
+Wallet/true/true/You don't need it here, but you still have your public transit card from the city.
+Keys/false/true
+Beer/true/false/You drink the entire thing and feel a bit sick.
+Latte/true/false/You drink the latte. Unfulfilling.
+Black Coffee/true/false/You drink the entire coffee. You estimate you'll feel uncomfortable for the next hour.
+Uncomfortable Erection/false/false/
+Spare Change/false/false
+Awkward Hug/false/false
+Mixed Drink/true/false/A little heavy on the juice-vodka ratio, but otherwise not bad.
+Fish Piece/true/true/A small fish made of paper-mache.
+Pizza Slice/true/false/You eat the slice of classic small-town life. It's mediocre.
+Energy Vodka/true/false/Oh, the sugar. It tastes like biting aluminum foil. You feel unpleasant, yet energized.
+Warm Hug/false/false

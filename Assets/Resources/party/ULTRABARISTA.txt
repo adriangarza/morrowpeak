@@ -1,0 +1,10 @@
+!BARISTA: Hey, thanks.
+BARISTA: One black coffee, for Alex.
+BARISTA: I know you usually order a latte, but you like your coffee black.
+BARISTA: It's okay to order black coffee at a coffee shop, you know.
+---
+BARISTA: Still playing baseball?
+BARISTA: Or are you still hiding it from everyone because you lost all your Little League matches?
+BARISTA: You're still playing baseball.
+---
+BARISTA: Thanks for talking to me. It gets lonely out here sometimes.
